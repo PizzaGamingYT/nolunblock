@@ -79,6 +79,11 @@ footer > div {
 	margin-bottom: 15px;
 }
 
+a {
+	color: #ff4d00;
+	text-decoration: none;
+}
+
 footer a,
 footer span {
 	margin: 0 15px;
